@@ -1,0 +1,64 @@
+[
+    {
+        "product_id": "bf097420",
+        "seller_name": "inch",
+        "product_name": "iphone 11",
+        "price": "20,000",
+        "product_details": "1gb ram\n32 gb storage",
+        "year_of_purchase": "2021",
+        "product_condition": "good",
+        "bidder_name": "-",
+        "bidder_email": "-",
+        "counter_offer": "-",
+        "status": "Accepted"
+    },
+    {
+        "product_id": "adb2f060",
+        "seller_name": "inch",
+        "product_name": "iphone 11",
+        "price": "699",
+        "product_details": "good",
+        "year_of_purchase": "2021",
+        "product_condition": "good",
+        "bidder_name": "-",
+        "bidder_email": "-",
+        "counter_offer": "-",
+        "status": "Pending"
+    },
+    {
+        "product_id": "8859b81a",
+        "seller_name": "keerthi",
+        "product_name": "iphone 13",
+        "price": "400",
+        "product_details": {
+            "RAM": "4gb",
+            "Storage": "256 gb",
+            "Processor": "a14 bionic",
+            "Display": "6.1 inch retina",
+            "Year used": "2",
+            "Condition": "good, a small scratch in display"
+        },
+        "bidder_name": "-",
+        "bidder_email": "-",
+        "counter_offer": "-",
+        "status": "Pending"
+    },
+    {
+        "product_id": "fab03f0f",
+        "seller_name": "inch",
+        "product_name": "samsung s21",
+        "price": "699",
+        "product_details": {
+            "RAM": "8GB",
+            "Storage": "128GB",
+            "Processor": "SD 888",
+            "Display": "6.1inch oled",
+            "Year used": "3",
+            "Condition": "broken display, dead battery"
+        },
+        "bidder_name": "-",
+        "bidder_email": "-",
+        "counter_offer": "-",
+        "status": "Pending"
+    }
+]

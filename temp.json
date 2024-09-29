@@ -1,0 +1,14 @@
+{
+    "product_id": "2420099a",
+    "seller_name": "inch",
+    "product_name": "iphone 14",
+    "price": 999.0,
+    "product_details": {
+        "RAM": "4",
+        "Storage": "128",
+        "Processor": "a17",
+        "Display": "6.1inch",
+        "Year used": "2",
+        "Condition": "broken display"
+    }
+}

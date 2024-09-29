@@ -1,0 +1,35 @@
+[
+    {
+        "product_id": "bf097420",
+        "seller_name": "inch",
+        "product_name": "iphone 11",
+        "price": "20,000",
+        "product_details": "1gb ram\n32 gb storage",
+        "year_of_purchase": "2021",
+        "product_condition": "good",
+        "bidder_name": "keerthi",
+        "bidder_email": "keerthi@gmail.com",
+        "counter_offer": "1000",
+        "status": "Accepted",
+        "message": "hi"
+    },
+    {
+        "product_id": "8859b81a",
+        "seller_name": "keerthi",
+        "product_name": "iphone 13",
+        "price": "400",
+        "product_details": {
+            "RAM": "4gb",
+            "Storage": "256 gb",
+            "Processor": "a14 bionic",
+            "Display": "6.1 inch retina",
+            "Year used": "2",
+            "Condition": "good, a small scratch in display"
+        },
+        "bidder_name": "inch",
+        "bidder_email": "inch@gmail.com",
+        "counter_offer": "300",
+        "status": "Pending",
+        "message": "not worth"
+    }
+]
